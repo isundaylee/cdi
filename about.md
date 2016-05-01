@@ -3,32 +3,12 @@ layout: default
 permalink: /about
 ---
 
-# About MIT China Development Initiative
+<img class="pagespan" src="/images/about.png">
 
-China Development Initiative (CDI) is an MIT student organization founded by MIT undergraduates aiming to:
+# 组织概况
 
-- provide MIT students with more opportunities to learn about China's development, often through sustainable programs like SLP
-- establish connections and bridge the cultural gap between MIT students and students in China
-- engage in meaningful exchange with students and thought leaders in China to promote mutual understanding, particularly via forums on leadership, citizenship, and international consciousness
+中国发展行动(CDI)的领导小组成员由优秀的麻省理工学院的学生组成。我们都对中国的教育和发展非常感兴趣。我们同时也意识到中国学生在社会服务意识和创新能力培养方面的需求。我们举办各种校园活动包括各类教授讲座，非营利组织宣讲会，和文化交流活动等。
 
-# Service Leadership Program
+# 社团宗旨
 
-The [Service Leadership Program](/slp) (better known as SLP) in China promotes mutual cultural and academic exchange in the area of international development. There is no language requirement as the students speak English. Food, housing, and a stipend will be provided. This is the long-time flagship program of CDI.
-
-- Held at least once a year in at least one city in China
-- MIT students will mentor distinguished Chinese high school students on the subjects of service and leadership
-- Consists of workshops, activities, and community service opportunities
-
-# Other programs in China
-
-Apart from SLP, CDI has also conducted some other intermittent programs in China as well, such as volunteering with HIV/AIDS orphans in Anhui Province, a desertification prevention and management research program in Yinchuan, Ningxia Province, and a English program with Tsinghua. 
-
-# On-campus events at MIT
-
-- Speaker Talks
-    - CDI invites speakers to discuss various social, economic, and cultural issues of modern China
-- Calligraphy in Lobby 10
-- Mixer events with other MIT Asia-focus organizations
-    - Cultural awareness activities
-    - Speed-friending events
-- Movie Showings
+麻省理工学院中国发展行动力社团成立于2007年，社团宗旨是为麻省理工的学生与中国中学生搭建一个沟通的桥梁，同时也致力于提供更多机会能让麻省理工学院学生了解中国，参与和帮助到中国社会不同层面的发展。社团经常邀请知名教授和中美社会名人（包括李连杰等中美知名演员）来麻省理工学院参与我们举办的中美文化交流探讨活动与讲座。我们也组织一系列包括SLP的活动来让麻省理工学院的学生有更多机会去中国与中国的中学生面对面的交流。
