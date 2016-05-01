@@ -1,0 +1,97 @@
+---
+---
+@charset "utf-8"
+
+$red: #D60705
+$dark-red: darken($red, 10)
+$full-width: 1000px
+
+body
+  margin: 0
+  font-family: 'Source Sans Pro', sans-serif
+
+.container
+  width: $full-width
+  margin: 0 auto
+  position: relative
+
+header
+  background-color: $red
+  padding: 1.5em 0
+
+  .logo
+    height: 5em
+    display: inline
+
+  .logo-text
+    position: absolute
+    top: 0em
+    left: 6em
+
+    h1
+      font-weight: 300
+      font-size: 2.8em
+      color: white
+      margin-top: 0
+      margin-bottom: 0
+
+      b
+        font-weight: 400
+
+    h2
+      font-weight: 300
+      font-size: 1.2em
+      color: white
+      margin-top: -0.2em
+      margin-left: 0.1em
+
+  .nav
+    float: right
+
+    li
+      display: inline
+
+      a
+        font-size: 1.1em
+        font-weight: 300
+        color: white
+        text-decoration: none
+        padding: 0.5em 1em
+
+        &:hover
+          background-color: $dark-red
+
+.content
+  padding: 2em 0
+
+  h1, h2, h3
+    font-weight: 600
+    color: $red
+
+  p, ul, ol
+    font-weight: 300
+    font-size: 1.2em
+    line-height: 1.4em
+
+  li > ul, li > ol
+    font-size: 1em
+
+  ul
+    li
+      list-style-type: square
+      margin-left: -1em
+
+  a
+    color: $red
+    font-weight: 400
+    text-decoration: none
+
+footer
+  background-color: $red
+  padding: 2em 0
+
+  p
+    font-size: 1.2em
+    text-align: center
+    color: white
+    font-weight: 300

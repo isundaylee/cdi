@@ -6,16 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: MIT China Development Initiative
+email: mit-cdi@mit.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  China Development Initiative (CDI) is an MIT student organization founded by MIT undergraduates aiming to:
+  1. provide MIT students with more opportunities to learn about China's development, often through sustainable programs like SLP
+  2. establish connections and bridge the cultural gap between MIT students and students in China
+  3. engage in meaningful exchange with students and thought leaders in China to promote mutual understanding, particularly via forums on leadership, citizenship, and international consciousness
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://cdi.mit.edu" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
